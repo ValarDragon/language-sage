@@ -1,18 +1,18 @@
 {
-  "name": "language-sage",
-  "version": "0.3.2",
+  "name": "language-sage Updated",
+  "version": "0.4.0",
   "engines": {
     "atom": "*",
     "node": "*"
   },
   "description": "Sage Math language support in Atom",
-  "homepage": "https://github.com/nayrangnu/language-sage",
+  "homepage": "https://github.com/ValarDragon/language-sage",
   "repository": {
     "type": "git",
-    "url": "https://github.com/nayrangnu/language-sage.git"
+    "url": "https://github.com/ValarDragon/language-sage.git"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/nayrangnu/language-sage/issues"
+    "url": "https://github.com/ValarDragon/language-sage/issues"
   }
 }
