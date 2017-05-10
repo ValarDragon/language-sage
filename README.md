@@ -1,7 +1,7 @@
 # Sage math language support in Atom
-Adds syntax highlighting and snippets to Sage math files in Atom. Currently limited to basic python syntax. Work is currently being done to add more sage mathematics functions to the langauge specification, to be highlighted.
+Adds syntax highlighting and snippets to Sage math files in Atom. Currently limited to basic python syntax. Work is currently being done to add more sage mathematics functions to the language specification, to be highlighted.
 
-This repository is a fork from [Sage-language](https://github.com/nayrangnu/language-sage), which essentially took the [Python Language Bundle](https://github.com/atom/language-python) and replaced python everywhere with sage.
+[This repository](https://github.com/ValarDragon/language-sage) is a fork from [Sage-language](https://github.com/nayrangnu/language-sage), which essentially took the [Python Language Bundle](https://github.com/atom/language-python) and replaced python everywhere with sage.
 
 To fix `in,is,not,and,or` and parameters for functions being highlighted, add the following to your personal stylesheet (which can be found at Edit -> Stylesheet):
 ```
